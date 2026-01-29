@@ -1,0 +1,20 @@
+{
+  "title": "عملاؤنا",
+  "items": [
+    {
+      "image": "images/c1.png",
+      "alt": "أيقونة الرعاية",
+      "name": "رعاية"
+    },
+    {
+      "image": "images/c2.png",
+      "alt": "",
+      "name": "جودة"
+    },
+    {
+      "image": "images/c3.png",
+      "alt": "أيقونة العناية",
+      "name": "عناية"
+    }
+  ]
+}
