@@ -1,0 +1,35 @@
+{
+  "title": "تواصل معنا",
+  "map": {
+    "embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5479.027166471244!2d12.120484775875406!3d32.91297935313812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13a961737be02e2f%3A0x3d39530a91353793!2z2LTYsdmD2Kkg2KPYt9io2KfYoSDYp9mE2LrYryDZhNil2LPYqtmK2LHYp9ivINin2YTYo9iv2YjZitipINmIINin2YTZhdi52K_Yp9iqINin2YTYt9io2YrYqQ!5e0!3m2!1sar!2sly!4v1769520438170!5m2!1sar!2sly"
+  },
+  "form": {
+    "action": "https://formspree.io/f/xbjnjgwo",
+    "method": "POST",
+    "fields": [
+      {
+        "label": "الاسم",
+        "type": "text",
+        "name": "name",
+        "id": "name",
+        "required": true
+      },
+      {
+        "label": "رقم الهاتف",
+        "type": "tel",
+        "name": "phone",
+        "id": "phone",
+        "required": true
+      },
+      {
+        "label": "الرسالة",
+        "type": "textarea",
+        "name": "message",
+        "id": "message",
+        "rows": 4,
+        "required": true
+      }
+    ],
+    "submit": "إرسال"
+  }
+}
