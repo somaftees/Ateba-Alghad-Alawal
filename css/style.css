@@ -363,7 +363,9 @@ a:focus {
 
 .product_section .box .img-box img {
   width: 100%;
-  height: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
 }
 
 .product_section .box .detail-box {
